@@ -11,7 +11,7 @@
 
 **Finding out why customers leave, and where the friction is.**
 
-👉 **[Read the project documentation (PDF)](./docs/ECommerce_Customer_Churn_Analysis_Documentation.pdf)**
+👉 **[Read the project documentation (PDF)](./docs/ECommerce_Customer_Churn_Analysis_Project_Documentation.pdf)**
 
 </div>
 
@@ -60,7 +60,7 @@ flowchart LR
 |------|---------------|
 | 📝 [01_ecomm_data.sql](./01_ecomm_data.sql) | Database creation, raw data insertion, missing value imputation, outlier handling and schema changes |
 | 🔎 [02_ecomm_data_exploration.sql](./02_ecomm_data_exploration.sql) | Exploratory queries, behaviour metrics, returns logging and relational joins |
-| 📄 [Project Documentation (PDF)](./docs/ECommerce_Customer_Churn_Analysis_Documentation.pdf) | Complete project overview and analysis details |
+| 📄 [Project Documentation (PDF)](./docs/ECommerce_Customer_Churn_Analysis_Project_Documentation.pdf) | Complete project overview and analysis details |
 
 ---
 
